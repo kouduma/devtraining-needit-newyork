@@ -6,7 +6,7 @@
         <checked_out/>
         <checked_out_by/>
         <column_renderer display_value="Workflow-driven">a56213111b030100adca1e094f0713ac</column_renderer>
-        <condition table="x_58872_needit_needit">state=14^EQ<item display_value="Awaiting Approval" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="14"/>
+        <condition table="x_58872_needit_needit">state=14^EQ<item display_value="14" endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="14"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </condition>
         <condition_type>run_match</condition_type>
@@ -66,7 +66,7 @@
         <vars/>
     </wf_workflow>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="Begin">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
+        <activity_definition display_value="開始">c7a5e32c0a0a0b3a002377c24ed8ea76</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>1</databus_lookup_id>
         <height/>
@@ -116,7 +116,7 @@
         <sys_updated_on>2019-04-05 16:30:17</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="Create Task">9f4d1be5c0a8016400043d34ce066316</activity_definition>
+        <activity_definition display_value="タスクの作成">9f4d1be5c0a8016400043d34ce066316</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>6</databus_lookup_id>
         <height/>
@@ -830,7 +830,7 @@ answer = 0;</value>
         <sys_updated_on>2019-04-05 16:30:17</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="End">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
+        <activity_definition display_value="終了">c7a66f7d0a0a0b3a004544a6d2f14076</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>2</databus_lookup_id>
         <height/>
@@ -859,7 +859,7 @@ answer = 0;</value>
     </wf_activity>
     <sys_variable_value action="delete_multiple" query="document_key=b39d17badb28f7007520f5861d9619c9"/>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="Approval - User">35433da80a0a029a0028c639a1e51eb4</activity_definition>
+        <activity_definition display_value="承認 - ユーザー">35433da80a0a029a0028c639a1e51eb4</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>3</databus_lookup_id>
         <height/>
@@ -1606,7 +1606,7 @@ answer = 0;</value>
         <sys_updated_on>2019-04-05 16:30:17</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="Run Script">db8c65aec0a8016501d00259bc7203a4</activity_definition>
+        <activity_definition display_value="スクリプトを実行">db8c65aec0a8016501d00259bc7203a4</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>7</databus_lookup_id>
         <height/>
@@ -1688,7 +1688,7 @@ answer = 0;</value>
         <sys_updated_on>2019-04-05 16:30:17</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition display_value="値の設定">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>4</databus_lookup_id>
         <height/>
@@ -1766,7 +1766,7 @@ answer = 0;</value>
         <sys_updated_on>2019-04-05 16:30:17</sys_updated_on>
     </wf_condition>
     <wf_activity action="INSERT_OR_UPDATE">
-        <activity_definition display_value="Set Values">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
+        <activity_definition display_value="値の設定">1ca8d7cf0a0a0b265e9a000c2c08248c</activity_definition>
         <activity_definition_updated>false</activity_definition_updated>
         <databus_lookup_id>5</databus_lookup_id>
         <height/>
