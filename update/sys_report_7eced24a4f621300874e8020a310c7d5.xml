@@ -24,7 +24,7 @@
         <chart_title_y_position>0</chart_title_y_position>
         <chart_width>600</chart_width>
         <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
-        <color_palette display_value="Purples dark to light (8)">542bcba9d7100200b96d45a3ce610331</color_palette>
+        <color_palette display_value="紫 (暗から明) (8)">542bcba9d7100200b96d45a3ce610331</color_palette>
         <colors/>
         <column/>
         <compute_percent>aggregate</compute_percent>
@@ -65,7 +65,7 @@
         <list_ui_view/>
         <location_field/>
         <lower_limit/>
-        <map display_value="World">93b8a3a2d7101200bd4a4ebfae61033a</map>
+        <map display_value="世界">93b8a3a2d7101200bd4a4ebfae61033a</map>
         <map_source/>
         <orderby_list/>
         <other_threshold>-1</other_threshold>

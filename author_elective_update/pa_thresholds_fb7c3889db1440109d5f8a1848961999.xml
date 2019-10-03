@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds">
+    <pa_thresholds action="DELETE">
+        <active>true</active>
+        <aggregate/>
+        <all_time_amount/>
+        <breakdown/>
+        <breakdown_level2/>
+        <condition>more_than</condition>
+        <create_score_notes>true</create_score_notes>
+        <display>NeedIt：Active Weekly</display>
+        <element/>
+        <element_level2/>
+        <indicator display_value="NeedIt：Active Weekly">530810c5db9040109d5f8a1848961990</indicator>
+        <last_check/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <sys_class_name>pa_thresholds</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 04:12:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fb7c3889db1440109d5f8a1848961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt：Active Weekly</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_thresholds_fb7c3889db1440109d5f8a1848961999</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 04:12:23</sys_updated_on>
+        <value>200</value>
+    </pa_thresholds>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>5508d6e1db8717c052e3f70fbf9619ed</instance_id>
+        <instance_name>dev63290</instance_name>
+        <name>pa_thresholds_fb7c3889db1440109d5f8a1848961999</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_thresholds"><pa_thresholds action="INSERT_OR_UPDATE"><active>true</active><aggregate/><all_time_amount/><breakdown/><breakdown_level2/><condition>more_than</condition><create_score_notes>true</create_score_notes><display>NeedIt：Active Weekly</display><element/><element_level2/><indicator display_value="NeedIt：Active Weekly">530810c5db9040109d5f8a1848961990</indicator><last_check/><owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner><sys_class_name>pa_thresholds</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-03 04:12:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb7c3889db1440109d5f8a1848961999</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt：Active Weekly</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>pa_thresholds_fb7c3889db1440109d5f8a1848961999</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-03 04:12:23</sys_updated_on><value>200</value></pa_thresholds></record_update>]]></payload>
+        <payload_hash>-1944171653</payload_hash>
+        <record_name>NeedIt：Active Weekly</record_name>
+        <reverted_from/>
+        <source>427528f8db5400109d5f8a184896198b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 04:12:23</sys_created_on>
+        <sys_id>377c3889db1440109d5f8a184896199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d8fd1a4230000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 04:12:23</sys_updated_on>
+        <type>しきい値</type>
+        <update_guid>7f7c388985144010c6f9477d350c8b9a</update_guid>
+        <update_guid_history>7f7c388985144010c6f9477d350c8b9a:-1944171653</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt：Active Weekly">0d23694ddb9440109d5f8a1848961911</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-03 07:01:14</sys_created_on>
+        <sys_db_object display_value="" name="pa_thresholds">pa_thresholds</sys_db_object>
+        <sys_id>8c39c592e0a14232a1324fd0c6602ca4</sys_id>
+        <sys_metadata>fb7c3889db1440109d5f8a1848961999</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt：Active Weekly</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>pa_thresholds_fb7c3889db1440109d5f8a1848961999</sys_update_name>
+        <sys_update_version display_value="pa_thresholds_fb7c3889db1440109d5f8a1848961999">377c3889db1440109d5f8a184896199b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-03 07:01:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
